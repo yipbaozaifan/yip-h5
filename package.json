@@ -11,7 +11,7 @@
     "commander": "^2.9.0"
   },
   "bin": {
-    "scion": "bin/scion"
+    "yh5": "bin/yh5"
   },
   "repository": {
     "type": "git",
