@@ -1,0 +1,22 @@
+{
+  "name": "testpwa",
+  "version": "1.0.0",
+  "description": "a test H5 build tool",
+  "main": "init.js",
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  },
+  "bin": {
+    "scion": "bin/scion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyWei/easy_mongo.git"
+  },
+  "author": "yepeizhan",
+  "license": "ISC"
+}
